@@ -1,17 +1,17 @@
-# java-fundamentals-practice
+# Java Fundamentals Practice
 
-Completed
-1. Number Guessing Game	        if, while, Random, variables
-2. Calculator	                methods, switch, conditionals, input
+## Completed
+1. <strong>Number Guessing Game</strong> ---	        if, while, Random, variables
+2. <strong>Calculator</strong> ---	                methods, switch, conditionals, input
 
-WIP
-4. Unit Converter	            methods, arithmetic, switch
+## Work In Progress
+3. <strong>Unit Converter</strong> ---	            methods, arithmetic, switch
 
-Waitlist
-5. Student Grade Calculator	    arrays, loops, methods
-6. Quiz Game	                arrays, loops, conditionals, methods
-7. Banking System	            classes, objects, methods, encapsulation
-8. Inventory Manager	        classes, ArrayList, loops
-9. Contact Book	                ArrayList, objects, searching
-10. Expense Tracker	            ArrayList, objects, totals, filtering
-11. Word/Character Counter	    String, HashMap, loops
+## Waitlist
+4. <strong>Student Grade Calculator</strong> ---	    arrays, loops, methods
+5. <strong>Quiz Game</strong> ---	                arrays, loops, conditionals, methods
+6. <strong>Banking System</strong> ---	            classes, objects, methods, encapsulation
+7. <strong>Inventory Manager</strong> ---	        classes, ArrayList, loops
+8. <strong>Contact Book</strong> ---	                ArrayList, objects, searching
+9. <strong>Expense Tracker</strong> ---	            ArrayList, objects, totals, filtering
+10. <strong>Word/Character Counter</strong> ---	    String, HashMap, loops
