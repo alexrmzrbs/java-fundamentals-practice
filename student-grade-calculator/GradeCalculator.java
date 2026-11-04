@@ -4,7 +4,12 @@ public class GradeCalculator {
 
     public static void main(String[] args) {
 
+        //Print welcome message
         System.out.println("========== Welcome to the Student Grade Calculator ==========\n");
+
+        //Initialize Scanner
+        Scanner scanner = new Scanner(System.in);
+
     }
 
     public static void displayMenu() {
