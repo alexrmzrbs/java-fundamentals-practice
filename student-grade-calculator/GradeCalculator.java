@@ -26,8 +26,21 @@ public class GradeCalculator {
         System.out.println("====================================================");
     }
 
-    public static void validateUserChoice(Scanner scanner) {
+    public static double validateUserChoice(Scanner scanner, double min, double max) {
+        
+        //Prompt user for input
+        double userChoice;
 
+        System.out.print("Enter your choice: ");
+        userChoice = scanner.nextDouble();
+
+        //Validate user input
+        while (userChoice < min || userChoice > max) {
+            System.out.print("Invalid choice. Please enter a value between " + min + " and " + max + ": ");
+            userChoice = scanner.nextDouble();
+        }
+        //Return the validated user choice
+        return userChoice;
     }
 
     public static void inputGrades(Scanner scanner, double[] grades) {
